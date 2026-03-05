@@ -1,0 +1,28 @@
+{
+  "interactGrid": [
+    ["false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false"],
+    ["true","true","true","true","true","true","true","true","true","true"],
+    ["true","true","true","true","true","true","true","true","true","true"],
+    ["true","true","true","true","true","true","true","true","true","true"],
+    ["true","true","true","true","true","true","true","true","true","true"],
+    ["true","true","true","true","true","true","true","true","true","true"]
+  ],
+  "grid": [
+    ["BOSSN",    "null",     "null",     "null",     "null",     "null",     "GENERATORW","null",     "null",     "null"],
+    ["null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "null"],
+    ["null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "ENEMYN"],
+    ["null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "ENEMYN"],
+    ["null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "ENEMYN"],
+    ["WALLN",    "WALLN",    "WALLN",    "WALLN",    "WALLN",    "WALLN",    "WALLN",    "GENERATORN","WALLN",    "WALLN"],
+    ["null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "null"],
+    ["MOVERE",   "null",     "null",     "null",     "null",     "null",     "HITMANN",  "null",     "null",     "null"],
+    ["null",     "null",     "null",     "null",     "null",     "null",     "MOVERN",   "null",     "null",     "null"],
+    ["null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "null",     "null"]
+  ],
+  "background": "wise_tree",
+    "buttonText": "Hitman Level 2"
+}

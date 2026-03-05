@@ -1,0 +1,28 @@
+{
+  "grid": [
+    ["WALLN", "SPINNERLEFTN", "WALLN", "WALLN", "WALLN", "ENEMYN", "ENEMYN", null, "ENEMYN", null],
+    ["WALLN", null, null, "SPINNERLEFTN", "WALLN", null, null, null, null, null],
+    ["SPINNERLEFTN", null, "MOVERE", "WALLN", "WALLN", null, null, null, null, null],
+    ["WALLN", "WALLN", "SPINNERLEFTN", "WALLN", "WALLN", null, null, null, null, null],
+    ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", null, null, null, null, null],
+    [null, null, null, null, null, null, null, null, null, "SPINNERRIGHTN"],
+    [null, null, null, null, null, null, null, null, null, null],
+    ["MOVERE", "MOVERE", null, null, null, null, null, "SPINNERLEFTN", null, null],
+    [null, null, null, null, null, null, null, null, "MOVERW", null],
+    [null, null, null, null, null, "SPINNERLEFTN", null, null, null, null]
+  ],
+  "interactGrid": [
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false],
+    [true, true, true, true, false, false, false, false, true, false],
+    [true, true, true, true, false, false, false, false, true, true],
+    [true, true, true, true, false, false, false, false, true, true],
+    [true, true, true, true, false, false, false, false, true, true],
+    [true, true, true, true, false, false, false, false, true, true]
+  ],
+  "texture_pack": "neon",
+  "buttonText": "Level 2"
+}

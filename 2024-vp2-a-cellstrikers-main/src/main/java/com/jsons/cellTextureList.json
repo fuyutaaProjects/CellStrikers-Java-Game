@@ -1,0 +1,261 @@
+{
+  "textures": [
+    {
+      "name": null,
+      "cellType": null,
+      "direction": null,
+      "smallTexture": ".",
+      "bigTexture": ["+     +", "       ", "       ", "+     +"]
+    },
+    {
+      "name": "wall",
+      "cellType": "WALL",
+      "direction": null,
+      "smallTexture": "X",
+      "bigTexture": ["+-----+", "|     |", "|     |", "+-----+"]
+    },
+    {
+      "name": "push",
+      "cellType": "PUSH",
+      "direction": null,
+      "smallTexture": "#",
+      "bigTexture": ["+-----+", "| # # |", "| # # |", "+-----+"]
+    },
+    {
+      "name": "trash",
+      "cellType": "TRASH",
+      "direction": null,
+      "smallTexture": "T",
+      "bigTexture": ["+-----+", "| =n= |", "| ║║║ |", "+-----+"]
+    },
+    {
+      "name": "slide",
+      "cellType": "SLIDE",
+      "direction": "N",
+      "smallTexture": "=",
+      "bigTexture": ["+-----+", "| --- |", "| --- |", "+-----+"]
+    },
+    {
+      "name": "slide",
+      "cellType": "SLIDE",
+      "direction": "W",
+      "smallTexture": "║",
+      "bigTexture": ["+-----+", "| | | |", "| | | |", "+-----+"]
+    },
+    {
+      "name": "directional",
+      "cellType": "DIRECTIONAL",
+      "direction": "E",
+      "smallTexture": "6",
+      "bigTexture": ["+-----+", "| | \\ |", "| | / |", "+-----+"]
+    },
+    {
+      "name": "directional",
+      "cellType": "DIRECTIONAL",
+      "direction": "W",
+      "smallTexture": "4",
+      "bigTexture": ["+-----+", "| / | |", "| \\ | |", "+-----+"]
+    },
+    {
+      "name": "directional",
+      "cellType": "DIRECTIONAL",
+      "direction": "N",
+      "smallTexture": "8",
+      "bigTexture": ["+-----+", "| / \\ |", "| --- |", "+-----+"]
+    },
+    {
+      "name": "directional",
+      "cellType": "DIRECTIONAL",
+      "direction": "S",
+      "smallTexture": "2",
+      "bigTexture": ["+-----+", "| --- |", "| \\ / |", "+-----+"]
+    },
+    {
+      "name": "mover",
+      "cellType": "MOVER",
+      "direction": "E",
+      "smallTexture": ">",
+      "bigTexture": ["+-----+", "| \\ \\ |", "| / / |", "+-----+"]
+    },
+    {
+      "name": "mover",
+      "cellType": "MOVER",
+      "direction": "W",
+      "smallTexture": "<",
+      "bigTexture": ["+-----+", "| / / |", "| \\ \\ |", "+-----+"]
+    },
+    {
+      "name": "mover",
+      "cellType": "MOVER",
+      "direction": "N",
+      "smallTexture": "A",
+      "bigTexture": ["+-----+", "| / \\ |", "| / \\ |", "+-----+"]
+    },
+    {
+      "name": "mover",
+      "cellType": "MOVER",
+      "direction": "S",
+      "smallTexture": "v",
+      "bigTexture": ["+-----+", "| \\ / |", "| \\ / |", "+-----+"]
+    },
+    {
+      "name": "spinner",
+      "cellType": "SPINNERRIGHT",
+      "direction": null,
+      "smallTexture": "R",
+      "bigTexture": ["+-----+", "| /-> |", "| \\-/ |", "+-----+"]
+    },
+    {
+      "name": "counter_spinner",
+      "cellType": "SPINNERLEFT",
+      "direction": null,
+      "smallTexture": "L",
+      "bigTexture": ["+-----+", "| <-\\ |", "| \\-/ |", "+-----+"]
+    },
+    {
+      "name": "generator",
+      "cellType": "GENERATOR",
+      "direction": "W",
+      "smallTexture": "D",
+      "bigTexture": ["+-----+", "| --\\ |", "| --/ |", "+-----+"]
+    },
+    {
+      "name": "generator",
+      "cellType": "GENERATOR",
+      "direction": "E",
+      "smallTexture": "Q",
+      "bigTexture": ["+-----+", "| /-- |", "| \\-- |", "+-----+"]
+    },
+    {
+      "name": "generator",
+      "cellType": "GENERATOR",
+      "direction": "N",
+      "smallTexture": "Z",
+      "bigTexture": ["+-----+", "| / \\ |", "| | | |", "+-----+"]
+    },
+    {
+      "name": "generator",
+      "cellType": "GENERATOR",
+      "direction": "S",
+      "smallTexture": "S",
+      "bigTexture": ["+-----+", "| | | |", "| \\ / |", "+-----+"]
+    },
+    {
+      "name": "enemy",
+      "cellType": "ENEMY",
+      "direction": null,
+      "smallTexture": "¤",
+      "bigTextureMulti": [
+        ["+-----+", "| ¤.¤ |", "| >-< |", "+-----+"],
+        ["+-----+", "| U U |", "|# w #|", "+-----+"],
+        ["+-----+", "| * * |", "|  ^  |", "+-----+"],
+        ["+-----+", "| O O |", "|  -  |", "+-----+"]
+      ]
+    },
+    {
+      "name": "pig",
+      "cellType": "WANDERER",
+      "direction": null,
+      "smallTexture": "W",
+      "bigTexture": [""]
+    },
+    {
+      "name": "flipper",
+      "cellType": "SWITCHER",
+      "direction": "E",
+      "smallTexture": "f",
+      "bigTexture": [""]
+    },
+    {
+      "name": "flipper",
+      "cellType": "SWITCHER",
+      "direction": "W",
+      "smallTexture": "f",
+      "bigTexture": [""]
+    },
+    {
+      "name": "flipper",
+      "cellType": "SWITCHER",
+      "direction": "N",
+      "smallTexture": "f",
+      "bigTexture": [""]
+    },
+    {
+      "name": "flipper",
+      "cellType": "SWITCHER",
+      "direction": "S",
+      "smallTexture": "f",
+      "bigTexture": [""]
+    },
+    {
+      "name": "nudge",
+      "cellType": "NUDGE",
+      "direction": "E",
+      "smallTexture": "N",
+      "bigTexture": [""]
+    },
+    {
+      "name": "nudge",
+      "cellType": "NUDGE",
+      "direction": "W",
+      "smallTexture": "N",
+      "bigTexture": [""]
+    },
+    {
+      "name": "nudge",
+      "cellType": "NUDGE",
+      "direction": "N",
+      "smallTexture": "N",
+      "bigTexture": [""]
+    },
+    {
+      "name": "nudge",
+      "cellType": "NUDGE",
+      "direction": "S",
+      "smallTexture": "N",
+      "bigTexture": [""]
+    },
+    {
+      "name": "Repulse",
+      "cellType": "REPULSE",
+      "direction": "E",
+      "smallTexture": "R",
+      "bigTexture": []
+    },
+    {
+      "name": "Repulse",
+      "cellType": "REPULSE",
+      "direction": "W",
+      "smallTexture": "R",
+      "bigTexture": []
+    },
+    {
+      "name": "Repulse",
+      "cellType": "REPULSE",
+      "direction": "N",
+      "smallTexture": "R",
+      "bigTexture": []
+    },
+    {
+      "name": "Repulse",
+      "cellType": "REPULSE",
+      "direction": "S",
+      "smallTexture": "R",
+      "bigTexture": []
+    },
+    {
+      "name": "hitman",
+      "cellType": "HITMAN",
+      "direction": null,
+      "smallTexture": "$",
+      "bigTexture": ["+-----+", "| HIT |", "| MAN |", "+-----+"]
+    },
+    {
+      "name": "boss",
+      "cellType": "BOSS",
+      "direction": null,
+      "smallTexture": "W",
+      "bigTexture": ["+-----+", "| BIG |", "| BAD |", "+-----+"]
+    }
+  ]
+}

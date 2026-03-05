@@ -1,0 +1,26 @@
+{
+  "grid":[
+    ["MOVERE","null","PUSHN","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"],
+    ["null","null","MOVERE","GENERATORE","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"],
+    ["WALLN","null","null","null","SPINNERRIGHTN","null","SLIDEE","null","null","null","SLIDEW","null","null","null","DIRECTIONALS","null","null","null"],
+    ["WALLN","WALLN","WALLN","WALLN","WALLN","null","null","null","null","null","null","null","null","null","null","null","WALLN","WALLN"],
+    ["null","null","null","null","WALLN","WALLN","SWITCHERN","WALLN","WALLN","WALLN","SWITCHERN","WALLN","WALLN","WALLN","SWITCHERN","WALLN","WALLN"],
+    ["null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"],
+    ["null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"],
+    ["null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"],
+    ["null","null","null","null","null","null","ENEMYN","null","null","null","ENEMYN","null","null","null","ENEMYN","null","null","null"]
+  ],
+  "interactGrid": [
+    ["true","true","true","true","true","false","false","false","false","false","false","false","false","false","false","false","false","false"],
+    ["true","true","true","true","true","false","false","false","false","false","false","false","false","false","false","false","false","false"],
+    ["true","true","true","true","true","false","false","false","false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false","false"]
+  ],
+  "texture_pack": "tethered_steeple",
+  "buttonText": "Level 20"
+}

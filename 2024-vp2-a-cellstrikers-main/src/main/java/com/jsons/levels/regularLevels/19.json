@@ -1,0 +1,16 @@
+{
+  "grid":[
+    ["MOVERE","null","PUSHN","null","null","MOVERE","null","null","ENEMYN","ENEMYN"],
+    ["MOVERE","null","null","PUSHN","null","null","null","null","ENEMYN","ENEMYN"],
+    ["MOVERE","null","GENERATORN","null","PUSHN","null","null","ENEMYN","ENEMYN","ENEMYN"],
+    ["null","null","null","null","null","PUSHN","null","null","null","ENEMYN"]
+  ],
+  "interactGrid": [
+    ["false","false","true","true","true","true","false","false","false","false"],
+    ["false","false","true","true","true","true","false","false","false","false"],
+    ["false","false","true","true","true","true","false","false","false","false"],
+    ["false","false","true","true","true","true","false","false","false","false"]
+  ],
+  "texture_pack": "tethered_steeple",
+  "buttonText": "Level 19"
+}

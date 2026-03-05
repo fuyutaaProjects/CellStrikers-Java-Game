@@ -1,0 +1,24 @@
+{
+  "grid":[
+    ["null","null","null","null","null","null","null","GENERATORE","null","GENERATORS"],
+    ["null","null","null","null","null","null","null","null","null","null"],
+    ["null","null","null","null","null","null","null","null","GENERATORW","GENERATORW"],
+    ["null","null","null","null","null","null","WALLN","WALLN","WALLN","WALLN"],
+    ["ENEMYE","ENEMYE","null","null","null","WALLN","ENEMYN","ENEMYN","ENEMYN","WALLN"],
+    ["ENEMYE","ENEMYE","ENEMYE","null","null","GENERATORN","null","null","null","WALLN"],
+    ["null","null","null","null","null","null","null","null","null","WALLN"],
+    ["null","null","null","null","null","null","null","null","null","WALLN"]
+  ],
+  "interactGrid": [
+    ["false","false","false","false","false","false","false","true","true","true"],
+    ["false","false","false","false","false","false","true","true","true","true"],
+    ["false","false","false","false","false","false","true","true","true","true"],
+    ["false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false"]
+  ],
+  "texture_pack": "witch_coven",
+  "buttonText": "Level 11"
+}

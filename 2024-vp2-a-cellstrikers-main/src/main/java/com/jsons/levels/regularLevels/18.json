@@ -1,0 +1,28 @@
+{
+  "grid":[
+    ["WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN"],
+    ["WALLN","MOVERS","null","WALLN","null","null","null","null","null","null","WALLN"],
+    ["WALLN","null","SPINNERLEFTN","WALLN","null","null","null","null","null","null","WALLN"],
+    ["WALLN","SPINNERLEFTN","null","WALLN","null","null","null","null","null","null","WALLN"],
+    ["WALLN","null","SPINNERLEFTN","WALLN","null","null","null","null","null","null","WALLN"],
+    ["WALLN","SPINNERLEFTN","null","WALLN","null","null","null","null","null","null","WALLN"],
+    ["WALLN","null","GENERATORE","WALLN","null","null","null","ENEMYN","null","null","WALLN"],
+    ["WALLN","null","null","WALLN","WALLN","WALLN","WALLN","WALLN","null","null","WALLN"],
+    ["null","null","null","null","null","null","null","null","null","null","null"],
+    ["WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN"]
+  ],
+  "interactGrid": [
+    ["false","false","false","false","false","false","false","false","false","false","false"],
+    ["false","true","true","false","true","true","false","false","false","true","false"],
+    ["false","true","true","false","true","false","false","false","false","true","false"],
+    ["false","true","true","false","true","false","false","false","false","true","false"],
+    ["false","true","true","false","true","false","false","false","false","false","false"],
+    ["false","true","true","false","true","true","true","true","true","true","true"],
+    ["false","true","true","false","true","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false","false"],
+    ["true","false","false","false","false","false","false","false","false","false","true"],
+    ["false","false","false","false","false","false","false","false","false","false","false"]
+  ],
+  "texture_pack": "subterrean_lab",
+  "buttonText": "Level 18"
+}

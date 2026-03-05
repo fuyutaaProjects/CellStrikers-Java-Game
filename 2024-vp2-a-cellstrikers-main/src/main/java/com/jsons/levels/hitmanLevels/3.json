@@ -1,0 +1,19 @@
+{
+  "grid": [
+    ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN","WALLN","WALLN","WALLN"],
+    ["WALLN", "HITMANN", null, null, null, null, null, null, null, null, null,"WALLN"],
+    ["WALLN", null, null, "PUSHN", null, null, null, null, null, null, "BOSSN","WALLN"],
+    ["WALLN", null, "GENERATORE", null, null, null, null, null, null, null, null,"WALLN"],
+    ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN","WALLN","WALLN","WALLN"]
+  ],
+  "interactGrid": [
+    [false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, true, true, true, true, false, false, false, false, false, false, false],
+    [false, true, true, true, true, false, false, false, false, false, false, false],
+    [false, true, true, true, true, false, false, false, false, false, false, false],
+    [false, true, true, true, true, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false]
+  ],
+  "texture_pack": "marble",
+  "buttonText": "Hitman Level 3"
+}

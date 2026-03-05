@@ -1,0 +1,24 @@
+{
+  "grid":[
+    ["ENEMYN","ENEMYN","ENEMYN","null","ENEMYN"],
+    ["null","null","null","ENEMYN","null"],
+    ["null","null","null","null","null"],
+    ["null","null","null","null","null"],
+    ["null","null","null","null","null"],
+    ["DIRECTIONALN","null","null","null","null"],
+    ["null","null","GENERATORW","null","null"],
+    ["null","MOVERN","PUSHN","MOVERN","null"]
+  ],
+  "interactGrid": [
+    ["false","false","false","false","false"],
+    ["false","false","false","false","false"],
+    ["false","false","false","false","false"],
+    ["false","false","false","false","false"],
+    ["true","true","true","true","true"],
+    ["true","true","true","true","true"],
+    ["true","true","true","true","true"],
+    ["true","true","true","true","true"]
+  ],
+  "texture_pack": "subterrean_lab",
+  "buttonText": "Level 17"
+}

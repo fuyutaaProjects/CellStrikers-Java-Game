@@ -1,0 +1,26 @@
+{
+  "grid":[
+    ["WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","null","null","null","SPINNERRIGHTN"],
+    ["null","null","null","null","null","null","null","null","WALLN","null","WALLN","null","WALLN"],
+    ["null","null","null","null","null","null","null","null","null","null","WALLN","null","WALLN"],
+    ["null","null","WALLN","ENEMYN","ENEMYN","ENEMYN","ENEMYN","ENEMYN","WALLN","MOVERE","WALLN","null","WALLN"],
+    ["WALLN","WALLN","WALLN","null","null","null","null","null","WALLN","WALLN","WALLN","null","WALLN"],
+    ["null","null","null","null","null","SPINNERRIGHTN","null","null","null","null","null","null","SPINNERLEFTN"],
+    ["null","null","null","null","null","null","GENERATORN","null","null","null","null","null","WALLN"],
+    ["null","null","null","null","null","null","MOVERE","null","null","null","null","null","WALLN"],
+    ["WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN"]
+  ],
+  "interactGrid": [
+    ["false","false","false","false","false","false","false","false","false","false","false","false","false"],
+    ["true","true","true","false","false","false","false","false","false","false","false","false","false"],
+    ["true","true","true","false","false","false","false","false","false","false","false","false","false"],
+    ["true","true","false","false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","true","true","true","true","true","true","true","false","false","false"],
+    ["false","false","false","true","true","true","true","true","true","true","false","false","false"],
+    ["false","false","false","true","true","true","true","true","true","true","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false","false","false","false"]
+  ],
+  "texture_pack": "witch_coven",
+  "buttonText": "Level 12"
+}

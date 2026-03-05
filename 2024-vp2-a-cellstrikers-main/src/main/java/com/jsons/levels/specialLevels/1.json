@@ -1,0 +1,16 @@
+{
+    "grid" : [
+        [null, null, "SPINNERLEFTN", "PUSHN", "MOVERW", null],
+        ["WALLN", "MOVERE", "SLIDEE", null, null, "ENEMYN"],
+        ["WALLN", null, null, null, null, null],
+        ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN"]
+    ],
+    "interactGrid" : [
+        [false, false, false, false, false, false],
+        [false, false, false, false, false, false],
+        [false, false, false, false, false, false],
+        [false, false, false, false, false, false]
+    ],
+    "texture_pack": "marble",
+    "buttonText": "Level 1"
+}

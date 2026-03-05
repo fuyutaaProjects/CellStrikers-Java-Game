@@ -1,0 +1,22 @@
+{
+  "grid": [
+    ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, null, null, null, null, null, null,"WALLN"],
+    ["WALLN", null, null, null, null, null, null, "GENERATORE", null, null, null, null, null, null,"WALLN"],
+    ["WALLN", null, "ENEMYN", null, null, null, null, null, null, null, null, null, "ENEMYN", null,"WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, null, "WALLN", null, null, null, null,"WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, "GENERATORW", null, null, null, null, null,"WALLN"],
+    ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN"]
+  ],
+  "interactGrid": [
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, true, true, true, true, true, false, false, false, false, false],
+    [false, false, false, false, false, true, true, true, true, true, false, false, false, false, false],
+    [false, false, false, false, false, true, true, true, true, true, false, false, false, false, false],
+    [false, false, false, false, false, true, true, true, true, true, false, false, false, false, false],
+    [false, false, false, false, false, true, true, true, true, true, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
+  ],
+  "texture_pack": "marble",
+  "buttonText": "Level 8"
+}

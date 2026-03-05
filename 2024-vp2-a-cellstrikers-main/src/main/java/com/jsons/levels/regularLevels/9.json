@@ -1,0 +1,28 @@
+{
+  "grid": [
+    ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN","WALLN","WALLN","WALLN"],
+    ["WALLN", null, "MOVERS", null, null, null, null, null, "GENERATORW", null, null,"WALLN"],
+    ["WALLN", null, null, null, "NUDGEW", "MOVERS", null, null, null, null, null,"WALLN"],
+    ["WALLN", null, "PUSHN", null, null, null, null, null, null, "PUSHN", null,"WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, null, null, null,"WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, null, null, null,"WALLN"],
+    ["WALLN", null, null, "TRASHN", null, null, null, null, null, null, null,"WALLN"],
+    ["WALLN", null, null, "ENEMYN", null, null, null, null, null, null, null,"WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, null, null, null,"WALLN"],
+    ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN","WALLN","WALLN","WALLN"]
+  ],
+  "interactGrid": [
+    [false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, true, true, true, true, true, true, true, true, true, true, false],
+    [false, true, true, true, true, true, true, true, true, true, true, false],
+    [false, true, true, true, true, true, true, true, true, true, true, false],
+    [false, true, true, true, true, true, true, true, true, true, true, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false]
+  ],
+  "texture_pack": "mushroom",
+  "buttonText": "Level 9"
+}

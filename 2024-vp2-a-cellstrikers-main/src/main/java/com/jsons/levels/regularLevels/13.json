@@ -1,0 +1,18 @@
+{
+  "grid":[
+    ["WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN"],
+    ["WALLN","ENEMYN","ENEMYN","ENEMYN","ENEMYN","ENEMYN","null","WALLN","WALLN"],
+    ["null","null","null","null","null","null","null","null","null"],
+    ["null","SWITCHERN","null","null","null","null","null","PUSHN","null"],
+    ["MOVERW","null","null","null","null","GENERATORW","null","null","null"]
+  ],
+  "interactGrid": [
+    ["false","false","false","false","false","false","false","false","false","false"],
+    ["false","false","false","false","false","false","false","false","false","false"],
+    ["true","true","true","true","true","true","true","true","true","true"],
+    ["true","true","true","true","true","true","true","true","true","true"],
+    ["true","true","true","true","true","true","true","true","true","true"]
+  ],
+  "texture_pack": "verboten_domain",
+  "buttonText": "Level 13"
+}

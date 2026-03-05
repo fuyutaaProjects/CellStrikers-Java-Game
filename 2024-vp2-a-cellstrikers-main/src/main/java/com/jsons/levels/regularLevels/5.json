@@ -1,0 +1,28 @@
+{
+  "grid": [
+    ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN"],
+    ["WALLN", null, null, null, null, null, "MOVERS", null, null, null, null, null, null, null, "WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, null, null, null, null, null, null, "WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, "PUSHN", null, null, null, null, null, "WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, null, null, null, null, null, null, "WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, null, null, null, null, null, null, "WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, null, null, null, null, null, null, "WALLN"],
+    ["WALLN", null, "MOVERE", "SLIDEE", null, null, null, null, null, null, null, null, "ENEMYN", "ENEMYN", "WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, null, null, null, null, null, null, "WALLN"],
+    ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN","WALLN","WALLN","WALLN","WALLN","WALLN","WALLN"]
+  ],
+  "interactGrid": [
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, true, true, true, true, true, true, true, true, true, true, false, false, false, false],
+    [false, true, true, true, true, true, true, true, true, true, true, false, false, false, false],
+    [false, true, true, true, true, true, true, true, true, true, true, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
+  ],
+  "texture_pack": "marble",
+  "buttonText": "Level 5"
+}

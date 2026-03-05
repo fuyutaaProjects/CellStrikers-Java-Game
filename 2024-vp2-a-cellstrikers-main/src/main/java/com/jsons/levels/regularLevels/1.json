@@ -1,0 +1,20 @@
+{
+    "grid": [
+      ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN"],
+      ["WALLN", null, null, null, null, null, null, null, "TRASHN"],
+      ["WALLN", null, "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN"],
+      ["SPINNERRIGHTN", "GENERATORN", "WALLN", null, null, "ENEMYN", null, null, null],
+      ["WALLN", "MOVERE", "WALLN", null, "MOVERE", null, null, null, null],
+      ["WALLN", "TRASHN", "WALLN", null, "MOVERN", null, null, null, "ENEMYN"]
+    ],
+    "interactGrid": [
+      [false, false, false, false, false, false, false, false, false],
+      [false, false, false, false, false, false, false, false, false],
+      [false, false, false, false, false, false, false, false, false],
+      [false, false, false, false, false, false, false, false, false],
+      [false, false, false, true, true, true, false, false, false],
+      [false, false, false, true, true, true, false, false, false]
+    ],
+    "texture_pack": "wise_tree",
+    "buttonText": "Level 1"
+  }

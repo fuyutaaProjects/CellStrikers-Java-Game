@@ -1,0 +1,22 @@
+{
+  "grid": [
+    ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN","WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, null, "WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, "ENEMYN", "WALLN"],
+    ["WALLN", null, null, null, "GENERATORS", null, null, null, null, "WALLN"],
+    ["WALLN", null, null, null, null, null, null, null, "ENEMYN", "WALLN"],
+    ["WALLN", null, "MOVERE", null, null, null, null, null, null, "WALLN"],
+    ["WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN", "WALLN","WALLN"]
+  ],
+  "interactGrid": [
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, true, true, true, true, false, false, false, false, false],
+    [false, true, true, true, true, false, false, false, false, false],
+    [false, true, true, true, true, false, false, false, false, false],
+    [false, true, true, true, true, false, false, false, false, false],
+    [false, true, true, true, true, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false]
+  ],
+  "texture_pack": "neon",
+  "buttonText": "Level 4"
+}
